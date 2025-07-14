@@ -1,1 +1,7 @@
-# Projeto-de-Calculo-Av3
+# Projeto-de-Calculo1-Av3
+
+ ALUNO: ITALO GABRIEL DA SILVA PEREIRA
+ ALUNO: DEIVID LINCON SOUZA BARRENSE
+
+
+ 
